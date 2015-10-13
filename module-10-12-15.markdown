@@ -11,7 +11,7 @@
 * Bret Doucette - Nokogiri is fun!
 * Travis Haby - How Japanese people use computers
 * Justin Holzmann - [Metaprogramming in Ruby with #send](https://gist.github.com/jphoenix86/5ea1235c898f5d369b91)
-* Tyler Komoroske - Americans programming abroad
+* Tyler Komoroske - Americans programming abroad(https://gist.github.com/tjkomor/1fbb95c881da7397ac14)
 * Chad Minnerath - UN facilitated technology transfer
 * Ryan Johnson - Wearable technology and sports analytics
 * Sekhar Paladugu - Japanese: Connections Between Human Language and Programming
